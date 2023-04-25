@@ -8,6 +8,7 @@ Players can now deliver any amount of food they want and earn money while doing<
 <h1>Dependencies</h1><br>
 qb-core (https://github.com/qbcore-framework/qb-core)<br>
 qb-target (https://github.com/qbcore-framework/qb-target)<br>
+![delivery](https://user-images.githubusercontent.com/104319683/234327029-e440dc57-b17f-4c50-aa2a-ca3968b557f8.png)
 
 <h1>Preview</h1><br>
 https://youtu.be/_4hV1y7v17s
