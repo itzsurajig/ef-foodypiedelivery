@@ -10,6 +10,7 @@ qb-core (https://github.com/qbcore-framework/qb-core)<br>
 qb-target (https://github.com/qbcore-framework/qb-target)<br>
 
 <h1>Preview</h1><br>
+https://youtu.be/_4hV1y7v17s
 
 
 <h1>Download</h1><br>
