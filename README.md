@@ -15,7 +15,7 @@ qb-target (https://github.com/qbcore-framework/qb-target)<br>
 <h1>Download</h1><br>
 
 
-<h1>Buy me a Coffee:</h1> 😄 <br>
+<h1>Buy me a Coffee ☕ 😄  :</h1><br>
 https://ef-productions.tebex.io/package/5636646<br>
 
 
