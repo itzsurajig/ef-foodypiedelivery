@@ -1,10 +1,9 @@
 # ef-foodypiedelivery<br>
 
 EF-FoodyPie Delivery Job<br>
+Players can now deliver any amount of food they want and earn money while doing<br>
 
 <h1>Discord</h1>: https://discord.gg/WbDp5GQ45t<br>
-
-Players can now deliver any amount of food they want and earn money while doing<br>
 
 <h1>Dependencies</h1><br>
 qb-core (https://github.com/qbcore-framework/qb-core)<br>
