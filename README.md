@@ -11,6 +11,26 @@ qb-target (https://github.com/qbcore-framework/qb-target)<br>
 
 ![delivery](https://user-images.githubusercontent.com/104319683/234327029-e440dc57-b17f-4c50-aa2a-ca3968b557f8.png)
 
+Add to dpemotes
+dpemotes/client/AnimationList.lua
+
+near line number `1809`
+
+```lua
+   --ef-foody addons
+   ["foody"] = {"anim@heists@humane_labs@finale@keycards", "ped_a_enter_loop", "foody", AnimationOptions =
+   {
+       Prop = "prop_paper_bag_small",
+       PropBone = 18905,
+       PropPlacement = {0.025, 0.08, 0.0, -100.0, 0.0, -20.0},
+       EmoteLoop = true,
+       EmoteMoving = true,
+   }},
+   --
+   ```
+   
+   
+
 <h1>Preview</h1><br>
 https://youtu.be/_4hV1y7v17s
 
