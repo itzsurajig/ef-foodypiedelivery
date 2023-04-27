@@ -9,6 +9,9 @@ Players can now deliver any amount of food they want and earn money while doing<
 qb-core (https://github.com/qbcore-framework/qb-core)<br>
 qb-target (https://github.com/qbcore-framework/qb-target)<br>
 
+<h1>Download</h1><br>
+https://ef-productions.tebex.io/package/5652023
+
 ![foodypie50](https://user-images.githubusercontent.com/104319683/235007955-ef084490-e946-4f5b-a251-25a45be832f2.png)
 
 
